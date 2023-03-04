@@ -1,0 +1,15 @@
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\bin\Debug\net6.0\CleanCode.exe
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\bin\Debug\net6.0\CleanCode.deps.json
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\bin\Debug\net6.0\CleanCode.runtimeconfig.json
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\bin\Debug\net6.0\CleanCode.dll
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\bin\Debug\net6.0\CleanCode.pdb
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.csproj.AssemblyReference.cache
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.AssemblyInfoInputs.cache
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.AssemblyInfo.cs
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.dll
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\refint\CleanCode.dll
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.pdb
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\CleanCode.genruntimeconfig.cache
+C:\Users\myles.lake\source\repos\clean-code\CleanCode\CleanCode\obj\Debug\net6.0\ref\CleanCode.dll

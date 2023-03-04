@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0wDFNgYJt3QQEGr4Peh/bjUZOgcGnuWD53fFenmW/lLD/7XYO5VIXqtWRbTEvw+gBk+q6woCSSFNSzcrpH73kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\myles.lake\\source\\repos\\clean-code\\CleanCode\\CleanCode\\CleanCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\myles.lake\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\myles.lake\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\myles.lake\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\myles.lake\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
